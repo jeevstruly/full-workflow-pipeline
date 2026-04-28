@@ -1,6 +1,6 @@
 ## Playful ASCII Studio
 
-This app is the "pipeline 3" project in the workshop. It turns pipeline 2's ASCII idea into an interactive editor.
+This app is the "pipeline 3" project in the workshop. It turns pipeline 2's ASCII idea into an interactive editor. Workshop run on 17/3/2026. Forked on 27/04/2026.
 
 ### What it does
 - Lets users type text in a textarea.
